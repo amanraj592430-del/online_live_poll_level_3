@@ -35,19 +35,19 @@ This project demonstrates:
 ## Screenshots
 
 🏠 Home Page
-      ![Screenshot 2026-06-18 210151.png](screenshot/Screenshot%202026-06-18%20210151.png)
+      ![Screenshot 2026-06-18 210151.png]()
 📝 Create Poll
-      ![Screenshot 2026-06-18 210214.png](screenshot/Screenshot%202026-06-18%20210214.png)
+      ![Screenshot 2026-06-18 210214.png]()
 🗳️ Voting
-    ![Screenshot 2026-06-18 210545.png](screenshot/Screenshot%202026-06-18%20210545.png)
+    ![Screenshot 2026-06-18 210545.png]()
 ✅ CI/CD
-    ![Screenshot 2026-06-18 205459.png](screenshot/Screenshot%202026-06-18%20205459.png)
+    ![Screenshot 2026-06-18 205459.png]()
 
 ## Mobile responsive screenshots
 
 Below is a mobile view screenshot demonstrating the responsive layout on narrow screens. Replace the placeholder with a real phone-sized screenshot captured from the dev tools or a device.
 
-![WhatsApp Image 2026-06-18 at 9.07.51 PM.jpeg](screenshot/WhatsApp%20Image%202026-06-18%20at%209.07.51%20PM.jpeg)
+![WhatsApp Image 2026-06-18 at 9.07.51 PM.jpeg]()
 
 
 ## Deployed Contract
