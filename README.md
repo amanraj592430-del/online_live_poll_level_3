@@ -71,7 +71,22 @@ Test-Path src/lib/stellar.js
 - Event polling and state synchronization
 - `localStorage` caching for recently loaded poll data
 - Automated tests for core helper logic
+## Screenshots
 
+🏠 Home Page
+   ![Screenshot 2026-07-27 114138.png](screenshots/Screenshot%202026-07-27%20114138.png)   
+📝 Create Poll
+      ![Screenshot 2026-07-27 114154.png](screenshots/Screenshot%202026-07-27%20114154.png)
+🗳️ Voting
+    ![Screenshot 2026-07-27 114210.png](screenshots/Screenshot%202026-07-27%20114210.png)
+✅ CI/CD
+    ![Screenshot 2026-07-27 115150.png](screenshots/Screenshot%202026-07-27%20115150.png)
+
+## Mobile responsive screenshots
+
+Below is a mobile view screenshot demonstrating the responsive layout on narrow screens. Replace the placeholder with a real phone-sized screenshot captured from the dev tools or a device.
+
+ ![WhatsApp Image 2026-07-27 at 11.31.10 AM.jpeg](screenshots/WhatsApp%20Image%202026-07-27%20at%2011.31.10%20AM.jpeg)
 ## Deployed Contract
 
 - Network: `Stellar Testnet`
